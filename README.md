@@ -49,16 +49,20 @@ While making this project, I learned:
    python main.py
 After running, all files will be automatically moved into their respective folders.
 
-📸 Screenshots
+**📸 Screenshots**
+
+
 I have attached Before and After screenshots below to show the output difference:
 
 
-📝 Notes
+**📝 Notes**
+
 I tested the script using different file types like PDFs, Images, Videos, and Text files.
 Also checked with some read-only files and invalid extensions to see how errors are handled.
 This small project helped me a lot in understanding Python’s file handling and automation part.
 
-🙌 Credits
+**🙌 Credits**
+
 Created by Vikrant Singh Chauhan
 for internship project submission.
 All code and testing done individually.
