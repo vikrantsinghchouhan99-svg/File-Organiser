@@ -1,23 +1,14 @@
-## 📂 File Organizer (Python Project)
+## 📂 File Organizer using Python
 
-This is a small Python project made by Vikrant Singh Chauhan during internship.
-The project is about automatically organizing files into proper folders based on their type.
-It helped me understand Python basics, file handling, and how small scripts can make daily work easier.
+This is a Python project I made to automatically organize files inside a folder based on their file types.
+The project idea was given by the mentors — we had to pick one from the list, and I selected this because it’s practical and useful in daily life.
 
-##💡 Project Idea
+## 🧠 About the Project
 
-I wanted to make something simple but useful, so I decided to create a File Organizer.
-The idea is that when you run the program, it checks all the files inside a folder and then automatically separates them into different folders like:
+The main goal of this project is to save time and keep files arranged automatically.
+It checks all files inside a given folder and moves them into separate folders like Images, Documents, Videos, Audio, and Others depending on their extensions.
 
-Documents
-
-Images
-
-Videos
-
-Others
-
-So we don’t have to move files manually again and again.
+This helped me understand how Python handles file paths, extensions, and directory management.
 
 ## ⚙️ How It Works
 
